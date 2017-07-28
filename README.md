@@ -10,7 +10,7 @@ Using ALL the materials from the past week (complete movies app, lecture notes, 
 
 **You should put your homework in a new repository. This is because you will need to deploy it.**
 
-### What's been provided for you:
+## What's been provided for you:
 
 The following user stories:
 - User should be able to go to `localhost:3000/todos` and see a list of all tasks
@@ -20,7 +20,7 @@ The following user stories:
 
 The wireframes [here](./wireframes.md).
 
-### Strongly recommended!!!!
+## Strongly recommended!!!!
 
 Add user authentication, so each to-do item belongs to a specific user.
 
