@@ -2,9 +2,13 @@
 
 Right-click & open in new window to see better!
 
-## Landing on the home page and going to the to-do page
+## Landing on the home page and going to the to-do page (no user auth)
 
 ![home-todo](./assets/home-todo.jpg)
+
+## Login flow
+
+![todo-login](./assets/todo-login.jpg)
 
 ## Adding a todo
 
