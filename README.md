@@ -32,7 +32,7 @@ Try at least one of these bonuses! They are meant to get you thinking about what
 - On the main todos page, create two columns: one for tasks that have yet to be done and one for tasks that have been completed.
 - **SUPER BONUS**: Create a "categories" table and a "categories" page that lists all the categories. When you click on a category in the "categories" table, you should be able to see all the todos in that category.
 - **SUPER BONUS**: Instead of going to a new page for editing, pop up a modal window instead.
-- **SUPER BONUS**: Add some tests!! [Refer to the express module's tests](https://github.com/expressjs/express/tree/master/test) to see how you might go about this.
+- **SUPER BONUS**: Add some tests!! [Refer to the express module's tests](https://github.com/expressjs/express/tree/master/test) to see how you might go about this. Also, check out the first part of [this tutorial](http://mherman.org/blog/2015/09/10/testing-node-js-with-mocha-and-chai/#.WXtj_NPyvr1) (up to the "hooks" part).
 
 ## 🚀 Completion looks like:
 
