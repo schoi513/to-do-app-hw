@@ -18,7 +18,7 @@ The following user stories:
 - User should be able to remove a to-do from the database
 - User should be able to update a to-do and see the update reflected
 
-The wireframes [here](./wireframes.md).
+The wireframes [here](./wireframes.md). _Your app should follow these wireframes._
 
 ## Strongly recommended!!!!
 
