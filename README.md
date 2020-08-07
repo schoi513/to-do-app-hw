@@ -46,7 +46,7 @@ Try at least one of these bonuses! They are meant to get you thinking about what
 
 ## 🚀 Your homework submission should include:
 
-- An **issue ticket** created on _this repo_.
+- A **pull request** created on _this repo_.
 - A link to your to-do app repository (which should NOT be THIS ONE!!!)
 - A link to your **deployed to-do app**
 - [A submission on Google Classroom](https://classroom.google.com/u/0/c/MTI4MTM1MjgyNDYw)
