@@ -4,7 +4,7 @@
 
 We want to help you stay organized, soooo we are asking you to build a TODO app for yourself 😃
 
-Using ALL the materials from the past week (complete flashcards app, lecture notes, etc) you will build a complete Express application from **SCRATCH** 😱😱😱
+Using ALL the materials from the past week (complete animals app, lecture notes, etc) you will build a complete Express application from **SCRATCH** 😱😱😱
 
 # DO NOT PUT YOUR TODO APP IN THIS REPOSITORY.
 
@@ -49,6 +49,7 @@ Try at least one of these bonuses! They are meant to get you thinking about what
 - A pull request created on _this repo_.
 - A link to your to-do app repository (which should NOT be THIS ONE!!!)
 - A link to your **deployed to-do app**
+- [A submission on Google Classroom](https://classroom.google.com/u/0/c/MTI4MTM1MjgyNDYw)
 - Completion, comfort, wins, losses, questions... you know the drill.
 
-## This homework is due 🚨 11PM ON THURSDAY NIGHT 🚨
+## This homework is due 🚨 10PM ON MONDAY MORNING 🚨
