@@ -1,0 +1,15 @@
+<%- include('../partials/boilerplate.ejs') %>
+
+<div class="form-page">
+    <div class="edit">
+        <form method="POST" action="/todos/<%= toDo.id%>?_method=PUT">
+            <input type="text" name="to_do" value="<%= toDo.question %>" placeholder="ToDo" />
+            <input type="text" name="request_date" value="<%= toDo.answer %>" placeholder="Date" />
+
+            <input type="submit" value="Edit it!" />
+        </form>
+    </div>
+    <a class="linktosingle" href="/todos/<%=toDo.id %>">Back to list</a>
+</div>
+
+<%- include('../partials/end.ejs') %>

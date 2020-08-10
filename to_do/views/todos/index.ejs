@@ -1,0 +1,10 @@
+<%- include('../partials/boilerplate.ejs') %>
+
+<div class="todo-container">
+    <% for (let toDo of toDos) { %>
+    <%- include('../partials/toDo', { toDo }) %>
+<% } %>
+</div>
+
+
+<%- include('../partials/end.ejs') %>

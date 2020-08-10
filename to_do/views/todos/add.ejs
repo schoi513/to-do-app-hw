@@ -1,0 +1,14 @@
+<%- include('../partials/boilerplate.ejs') %>
+
+<div class="form-page">
+    <div class="add">
+        <form method="POST" action="/toDos/">
+            <input type="text" name="to_do" placeholder="To_do" />
+            <input type="text" name="request_date" placeholder="Date" />
+            <input type="submit" value="Add it!" />
+        </form>
+    </div>
+    <a href="/todos/">Back to new list</a>
+</div>
+
+<%- include('../partials/end.ejs') %>

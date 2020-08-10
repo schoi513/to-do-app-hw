@@ -1,0 +1,18 @@
+<div class="todo">
+    <h3><%= flashcard.question %></h3>
+    <% if (!isShow) { %>
+        <a class="linktosingle" href="/toDos/<%= toDo.id %>">see the list</a>
+    <% } else { %>
+        <p><%= toDo.answer %></p>
+            <div class="meta">
+                <span class="to_do"><%= toDo.to_do %></span>
+                <span class="request_date">Date: <%= toDo.request_date %></span>
+                    <a class="editlink" href="/toDos/<%=toDo.id%>/edit">Edit</a>
+                    <form class="delete" action="/toDos/<%= toDo.id%>?_method=DELETE" method="POST">
+                        <input class="dellink" type="submit" value="Delete">
+                </form>
+         </div>
+        <a class="linktosingle" href="/toDos/">Back to list</a>
+    </div>
+    <% } %>
+</div>

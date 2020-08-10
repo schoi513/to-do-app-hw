@@ -1,0 +1,5 @@
+CREATE TABLE IF NOT EXISTS flashcards (
+  id SERIAL PRIMARY KEY,
+  to_do TEXT NOT NULL,
+  request_date TEXT NOT NULL
+);
